@@ -5,6 +5,9 @@
 This repository contains a comprehensive visualization dashboard analyzing crime statistics from 2018 to 2021. The dashboard presents various aspects of crime data including total offenders, sexual offenses, age distributions, and attempted/threatened murders.
 
 ---
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/a78c2cbd-c1e6-4761-b190-c1761669c0a2)
 
 ## Features
 
